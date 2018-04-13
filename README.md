@@ -1,4 +1,8 @@
 # Inline Editing
+
+  To get started
+  add this `https://raw.githubusercontent.com/abhinayp/inline_editing/master/inline_editing.js` to your HTML
+
  HTML REQUIREMENTS AND MODULES RULES TO USE THIS MODULE
  *  A parent class with category name should be created, html should be written in that parent class
  *  editable fields should have a parent class called `data` which is child to category
